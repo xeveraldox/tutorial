@@ -1,0 +1,467 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="FX">
+    <display-name lang="pt">FX</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="FX HD">
+    <display-name lang="pt">FX HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="pt">HBO</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Canal Sony HD">
+    <display-name lang="pt">Canal Sony HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/globo-mg.gif|http://www.lineup.tv.br/canais/globo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Comedy Central">
+    <display-name lang="pt">Comedy Central</display-name>
+    <icon src="http://www.lineup.tv.br/canais/recordtv-minas.gif|http://www.lineup.tv.br/canais/recordtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <programme start="20190316001500 -0300" stop="20190316024500 -0300" channel="FX">
+    <title lang="pt">Chamas da Vingança</title>
+    <desc lang="pt">Um desmotivado ex-agente da CIA é contratado para ser o guarda-costas de uma garota no México. Após ela ser seqüestrada, ele parte para resgatá-la(n)</desc>
+    <credits>
+      <director>Tony Scott</director>
+      <actor>Denzel Washington</actor>
+      <actor>Dakota Fanning</actor>
+      <actor>Marc Anthony</actor>
+      <actor>Radha Mitchell</actor>
+      <actor>Christopher Walken</actor>
+      <actor>Giancarlo Giannini</actor>
+      <actor>Rachel Ticotin</actor>
+      <actor>Jesús Ochoa</actor>
+      <actor>Mickey Rourke</actor>
+      <actor>Angelina Peláez</actor>
+      <actor>Gustavo Sánchez Parra</actor>
+      <actor>Gero Camilo</actor>
+    </credits>
+    <date>2004</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190316024500 -0300" stop="20190316031000 -0300" channel="FX">
+    <title lang="pt">American Dad</title>
+    <desc lang="pt">Quando Jeff ainda não consegue fazer que Haley engravide, Roger solta que o motivo é porque o cérebro humano de Jeff está em um corpo alienígena(n)</desc>
+    <credits>
+      <director>Chris Bennett</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Wendy Schaal</actor>
+      <actor>Scott Grimes</actor>
+      <actor>Rachael MacFarlane</actor>
+      <actor>Rob Huebel</actor>
+      <actor>Tom Kenny</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S13 E6</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190316031000 -0300" stop="20190316034000 -0300" channel="FX">
+    <title lang="pt">Uma Família da Pesada</title>
+    <desc lang="pt">Peter vai ao jogo de futebol de Chris e acaba dando um soco numa mulher pensando tratar-se de um homem(n)</desc>
+    <credits>
+      <director>Roy Allen Smith</director>
+      <director>Peter Shin</director>
+      <actor>Vozes de Seth Green</actor>
+      <actor>Alex Borstein</actor>
+      <actor>Seth MacFarlane</actor>
+      <actor>Patrick Bristow</actor>
+      <actor>Butch Hartman</actor>
+      <actor>Suzie Plakson</actor>
+      <actor>Kevin Michael Richardson</actor>
+      <actor>Bobby Slayton</actor>
+      <actor>Wally Wingert</actor>
+    </credits>
+    <date>1999</date>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190316034000 -0300" stop="20190316040500 -0300" channel="FX">
+    <title lang="pt">Bob's Burgers</title>
+    <desc lang="pt">Louise inscreve Tina em um concurso para conhecer Boo Boo de Boyz 4 Agora, e Bob e Linda descobrem uma história interessante sobre o restaurante, o que causa tensão entre Bob e Jimmy Pesto(n)</desc>
+    <credits>
+      <director>Tyree Dillihay</director>
+      <actor>Vozes de H. Jon Benjamin</actor>
+      <actor>Dan Mintz</actor>
+      <actor>Eugene Mirman</actor>
+      <actor>John Roberts</actor>
+      <actor>Kristen Schaal</actor>
+      <actor>Andy Kindler</actor>
+      <actor>Larry Murphy</actor>
+      <actor>Melissa Bardin Galsky</actor>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S6 E16</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190316040500 -0300" stop="20190316053000 -0300" channel="FX">
+    <title lang="pt">Halloween H20 - Vinte Anos Depois</title>
+    <desc lang="pt">Vinte anos depois, Michael e Laurie estão prestes a se encontrar. Ela que ainda luta para esquecer o seu passado e vive sob o pseudônimo de Keri Tate, agora terá que lutar para proteger seu filho e amigos do maníaco do Halloween(n)</desc>
+    <credits>
+      <director>Steve Miner</director>
+      <actor>Jamie Lee Curtis</actor>
+      <actor>Adam Arkin</actor>
+      <actor>Josh Hartnett</actor>
+      <actor>Michelle Williams</actor>
+      <actor>Adam Hann-Byrd</actor>
+      <actor>LL Cool J</actor>
+      <actor>Jodi Lyn O'Keefe</actor>
+    </credits>
+    <date>1998</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190316053000 -0300" stop="20190316070000 -0300" channel="FX">
+    <title lang="pt">Crash and Burn</title>
+    <desc lang="pt">Kevin é um ladrão de carros experto no negócio, e decide deixar a vida do crime. Vincent é um policial investigando o roubo de carros(n)</desc>
+    <credits>
+      <director>Mulcahy Russell</director>
+      <actor>Madsen Michael</actor>
+      <actor>Moscow David</actor>
+      <actor>Palladino Erik</actor>
+      <actor>Heather Marie Marsden</actor>
+      <actor>Peter Jason</actor>
+      <actor>Owen Beckman</actor>
+      <actor>Tony Denison</actor>
+    </credits>
+    <date>2007</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190316070000 -0300" stop="20190316073000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190316073000 -0300" stop="20190316080000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190316080000 -0300" stop="20190316083000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190316083000 -0300" stop="20190316090000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190316090000 -0300" stop="20190316100000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190316100000 -0300" stop="20190316102500 -0300" channel="FX">
+    <title lang="pt">American Dad</title>
+    <desc lang="pt">Quando Stan e Francine decidem reformar a casa, discutem tanto sobre como redecorá-la que terminam dividindo a casa ao meio e tentam viver um sem o outro(n)</desc>
+    <credits>
+      <director>Joe Daniello</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Wendy Schaal</actor>
+      <actor>Scott Grimes</actor>
+      <actor>Rachael MacFarlane</actor>
+      <actor>Dee Bradley Baker</actor>
+    </credits>
+    <date>2011</date>
+    <episode-num system="onscreen">S7 E17</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190316102500 -0300" stop="20190316105500 -0300" channel="FX">
+    <title lang="pt">American Dad</title>
+    <desc lang="pt">Stan e seus colegas de trabalho da CIA vão para a Tailândia para explodir um esconderijo de armas, mas Bullock já enviou um drone para fazer o trabalho(n)</desc>
+    <credits>
+      <director>Jansen Yee</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Wendy Schaal</actor>
+      <actor>Scott Grimes</actor>
+      <actor>Rachael MacFarlane</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Alex Cuthbertson</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S11 E5</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190316105500 -0300" stop="20190316123500 -0300" channel="FX">
+    <title lang="pt">Irmão Natureza</title>
+    <desc lang="pt">Roger e Gwen são namorados e estão passando um tempo na casa de lago da família dela. Roger pretende pedir a namorada em casamento no local(n)</desc>
+    <credits>
+      <director>Osmany Rodriguez</director>
+      <director>Matt Villines</director>
+      <actor>Gillian Jacobs</actor>
+      <actor>Taran Killam</actor>
+      <actor>Bobby Moynihan</actor>
+      <actor>Sarah Burns</actor>
+      <actor>Bill Pullman</actor>
+      <actor>Rita Wilson</actor>
+      <actor>Ellen Bloodworth</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190316123500 -0300" stop="20190316142000 -0300" channel="FX">
+    <title lang="pt">O Trote</title>
+    <desc lang="pt">Para ser aceito em uma fraternidade, Brad é submetido a testes violentos e precisa fazer de tudo para provar sua lealdade(n)</desc>
+    <credits>
+      <director>Andrew Neel</director>
+      <actor>James Franco</actor>
+      <actor>Nick Jonas</actor>
+      <actor>Ben Schnetzer</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190316142000 -0300" stop="20190316161000 -0300" channel="FX">
+    <title lang="pt">Ladrões</title>
+    <desc lang="pt">Uma quadrilha de roubo a bancos, especializada em operações espetaculares, deve realizar um último trabalho oferecido por um cúmplice em liberdade condicional. Porém, um detetive durão e seu parceiro planejam interceptar o roubo(n)</desc>
+    <credits>
+      <director>John Luessenhop</director>
+      <actor>Michael Ealy</actor>
+      <actor>Matt Dillon</actor>
+      <actor>Hayden Christensen</actor>
+      <actor>Steve Harris</actor>
+      <actor>Johnathon Schaech</actor>
+      <actor>Chris Brown</actor>
+      <actor>Zoe Saldana</actor>
+    </credits>
+    <date>2010</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190316161000 -0300" stop="20190316182000 -0300" channel="FX">
+    <title lang="pt">Aliados</title>
+    <desc lang="pt">Em uma missão para eliminar um embaixador nazista em Casablanca, no Marrocos, os espiões Max Vatan e Marianne Beausejour se apaixonam e decidem se casar(n)</desc>
+    <credits>
+      <director>Robert Zemeckis</director>
+      <actor>Brad Pitt</actor>
+      <actor>Vincent Ebrahim</actor>
+      <actor>Xavier De Guillebon</actor>
+      <actor>Marion Cotillard</actor>
+      <actor>Camille Cottin</actor>
+      <actor>Michael McKell</actor>
+      <actor>Vincent Latorre</actor>
+      <actor>Fleur Poad</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190316182000 -0300" stop="20190316200000 -0300" channel="FX">
+    <title lang="pt">Carga Explosiva</title>
+    <desc lang="pt">Ex-agente das Forças Especiais transporta diversos pacotes pelo mundo sem saber do que se tratam, mas acaba se apaixonando por uma de suas encomendas(n)</desc>
+    <credits>
+      <director>Louis Leterrier</director>
+      <actor>Jason Statham</actor>
+      <actor>Qi Shu</actor>
+      <actor>Matt Schulze</actor>
+      <actor>François Berléand</actor>
+      <actor>Ric Young</actor>
+      <actor>Doug Rand</actor>
+      <actor>Didier Saint Melin</actor>
+      <actor>Tonio Descanvelle</actor>
+      <actor>Vincent Nemeth</actor>
+      <actor>Jean-Yves Bilien</actor>
+    </credits>
+    <date>2001</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190316200000 -0300" stop="20190316220000 -0300" channel="FX">
+    <title lang="pt">Tropa de Elite</title>
+    <desc lang="pt">Um capitão do BOPE quer deixar o posto e busca um substituto, ao mesmo tempo em que 2 amigos se destacam por sua honestidade como policiais(n)</desc>
+    <credits>
+      <director>José Padilha</director>
+      <actor>Wagner Moura</actor>
+      <actor>Caio Junqueira</actor>
+      <actor>André Ramiro</actor>
+      <actor>Milhem Cortaz</actor>
+      <actor>Fernanda de Freitas</actor>
+      <actor>Fernanda Machado</actor>
+      <actor>Thelmo Fernandes</actor>
+      <actor>Maria Ribeiro</actor>
+      <actor>Emerson Gomes</actor>
+      <actor>Fábio Lago</actor>
+    </credits>
+    <date>2007</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190316220000 -0300" stop="20190317001500 -0300" channel="FX">
+    <title lang="pt">Jack Reacher: Sem Retorno</title>
+    <desc lang="pt">Jack Reacher retorna à base militar na Virgínia, onde pretende levar a major Susan Turner para jantar. Ao descobrir que ela está presa, acusada de ter vazado informações confidenciais do exército, ele resolve investigar(n)</desc>
+    <credits>
+      <director>Edward Zwick</director>
+      <actor>Tom Cruise</actor>
+      <actor>Cobie Smulders</actor>
+      <actor>Aldis Hodge</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190316000200 -0300" stop="20190316022900 -0300" channel="FX HD">
+    <title lang="pt">Chamas da Vingança</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190316022900 -0300" stop="20190316025200 -0300" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190316025200 -0300" stop="20190316031600 -0300" channel="FX HD">
+    <title lang="pt">Uma Família da Pesada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190316031600 -0300" stop="20190316034000 -0300" channel="FX HD">
+    <title lang="pt">Bob's Burgers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190316034000 -0300" stop="20190316050700 -0300" channel="FX HD">
+    <title lang="pt">Halloween H20</title>
+    <sub-title lang="pt">Vinte Anos Depois</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190316050700 -0300" stop="20190316063600 -0300" channel="FX HD">
+    <title lang="pt">Crash and Burn</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190316063600 -0300" stop="20190316070000 -0300" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190316070000 -0300" stop="20190316080000 -0300" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190316080000 -0300" stop="20190316083000 -0300" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190316083000 -0300" stop="20190316090000 -0300" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190316090000 -0300" stop="20190316100000 -0300" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190316100000 -0300" stop="20190316102800 -0300" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190316102800 -0300" stop="20190316105200 -0300" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190316105200 -0300" stop="20190316124100 -0300" channel="FX HD">
+    <title lang="pt">Irmão Natureza</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190316124100 -0300" stop="20190316143100 -0300" channel="FX HD">
+    <title lang="pt">O Trote</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190316143100 -0300" stop="20190316162300 -0300" channel="FX HD">
+    <title lang="pt">Ladrões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190316162300 -0300" stop="20190316182900 -0300" channel="FX HD">
+    <title lang="pt">Aliados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190316182900 -0300" stop="20190316200300 -0300" channel="FX HD">
+    <title lang="pt">Carga Explosiva</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190316200300 -0300" stop="20190316220000 -0300" channel="FX HD">
+    <title lang="pt">Tropa de Elite</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190316220000 -0300" stop="20190316235700 -0300" channel="FX HD">
+    <title lang="pt">Jack Reacher: Sem Retorno</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190316235700 -0300" stop="20190317020800 -0300" channel="FX HD">
+    <title lang="pt">O Ataque</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
