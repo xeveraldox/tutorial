@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="everaldo" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hboplus.png" group-title="filmes", Hbo plus
+http://205.gotoplayer.xyz:8088/live/aovivotudo_hboplus/playlist.m3u8?id=34485&wowzasessionid=324584221&pk=44dd06e874712ef678344b0e55a18e7802a7750073d9ec6dc59bb42a3df53a81
+
+#EXTINF:-1 tvg-id="everaldo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX-0qOlJvi8_L9cndgoNKOzVMoiiAa0qI6Na7atykN9ty1u_kU" group-title="filmes", Telecine action
+http://203.gotoplayer.xyz:8088/live/aovivotudo_tcaction/playlist.m3u8?id=34483&wowzasessionid=691515278&pk=44dd06e874712ef678344b0e55a18e7802a7750073d9ec6dc59bb42a3df53a81
+
+#EXTINF:-1 tvg-id="everaldo" tvg-logo="https://4.bp.blogspot.com/-JeKs0EIhzPo/WKKAl_-Pg5I/AAAAAAAAAds/nSiFrLD0530nsr9oXxzz_3vuEf7uPxSogCLcB/s468/assistir-tv-telecine-premium-ao-vivo-ver-online-gratis-em-hd-pela-internet-2.jpg" group-title="filmes", Telecine premium
+http://203.gotoplayer.xyz:8088/live/aovivotudo_tcpremium/playlist.m3u8?id=34481&wowzasessionid=947057227&pk=44dd06e874712ef678344b0e55a18e7802a7750073d9ec6dc59bb42a3df53a81
+
+#EXTINF:-1 tvg-id="everaldo" tvg-logo="http://4.bp.blogspot.com/-HUspuKFTTmg/Utb-8Z3K0WI/AAAAAAAAAWs/4-_gLHH89Q4/s1600/TNT_Logo.png" group-title="filmes", TNT
+http://201.gotoplayer.xyz:8088/live/aovivotudo_tnt/playlist.m3u8?id=34480&wowzasessionid=3651320575&pk=44dd06e874712ef678344b0e55a18e7802a7750073d9ec6dc59bb42a3df53a81
+
+#EXTINF:-1 tvg-id="everaldo" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/canal-combate-logo.png" group-title="sportes", Combate
+http://202.gotoplayer.xyz:8088/live/aovivotudo_combate/playlist.m3u8?id=34337&wowzasessionid=7397194003&pk=44dd06e874712ef678344b0e55a18e7802a7750073d9ec6dc59bb42a3df53a81
