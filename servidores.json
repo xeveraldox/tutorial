@@ -1,6 +1,8 @@
 {
   "servidores": [
     "https://exemplo.com",
-    "http://suaa.com"
+    "http://suaa.com",
+    "https://meunovoservidor.com.br",
+    "https://api.backup.com"
   ]
 }
