@@ -1,8 +1,20 @@
 {
   "servidores": [
-    "https://exemplo.com",
-    "http://suaa.com",
-    "https://meunovoservidor.com.br",
-    "https://api.backup.com"
+    {
+      "nome": "Servidor Principal",
+      "url": "https://exemplo.com"
+    },
+    {
+      "nome": "Servidor Backup",
+      "url": "http://suaa.com"
+    },
+    {
+      "nome": "Servidor Europeu",
+      "url": "https://europa.meuservidor.net"
+    },
+    {
+      "nome": "Servidor Brasil",
+      "url": "https://br.api.local.com"
+    }
   ]
 }
