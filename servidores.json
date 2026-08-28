@@ -1,16 +1,24 @@
 {
   "servidores": [
     {
-      "nome": "Servidor Principal",
-      "url": "https://exemplo.com"
+      "nome": "POWER",
+      "url": "http://pplay.top:80"
     },
     {
-      "nome": "Servidor Backup",
-      "url": "http://suaa.com"
+      "nome": "POWER1",
+      "url": "http://power966897.shop"
     },
     {
-      "nome": "Servidor Europeu",
-      "url": "https://europa.meuservidor.net"
+      "nome": "POWER2",
+      "url": "http://techon.one:80"
+    },
+    {
+      "nome": "GENIAL",
+      "url": "http:aptxu.com"
+    },
+    {
+      "nome": "GENIAL1",
+      "url": "http://rekgol.top"
     },
     {
       "nome": "Servidor Brasil",
