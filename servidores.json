@@ -1,35 +1,35 @@
 {
   "servidores": [
     {
-      "nome": "POWER",
+      "nome": "P1",
       "url": "http://pplay.top:80"
     },
     {
-      "nome": "POWER1",
+      "nome": "P2",
       "url": "http://power966897.shop"
     },
     {
-      "nome": "POWER2",
+      "nome": "P3",
       "url": "http://techon.one:80"
     },
     {
-      "nome": "GENIAL",
+      "nome": "G1",
       "url": "http:aptxu.com"
     },
     {
-      "nome": "GENIAL1",
+      "nome": "G2",
       "url": "http://rekgol.top"
     },
     {
-      "nome": "P2CINE",
+      "nome": "P2-1",
       "url": "http://ded58.com"
     },
     {
-      "nome": "P2PLAY",
+      "nome": "P2-p",
       "url": "http://p2player.sbs"
     },
     {
-      "nome": "P2PLAY1",
+      "nome": "P2-p1",
       "url": "http://tubaraoplay.com"
     },
     {
